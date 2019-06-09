@@ -58,6 +58,7 @@ export default {
 }
 </script>
 <style scoped>
+/* 使用动画效果 */
 .bounce-enter-active {
   animation: bounce-in .8s;
 }
